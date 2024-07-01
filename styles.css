@@ -31,14 +31,6 @@ body {
     cursor: pointer;
 }
 
-.x::after {
-    content: 'X';
-}
-
-.o::after {
-    content: 'O';
-}
-
 #status-message {
     font-size: 1.5em;
     margin-bottom: 10px;
