@@ -91,3 +91,4 @@ function updateStatusMessage(message) {
 
 // Event listener for restart button
 restartButton.addEventListener('click', startGame);
+
